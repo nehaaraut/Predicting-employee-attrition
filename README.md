@@ -1,0 +1,2 @@
+# Predicting-employee-attrition
+Our hypothetical company wants to apply data science principles and steps to deal with a critical HR issue: employee churn. It realizes that when good people leave, it costs far more to replace them than providing them with some incentives to keep them. So, it would like to be data-driven in the HR decisions it makes with respect to employee retention. This project aims to predict if an employee is going to resign or not.
